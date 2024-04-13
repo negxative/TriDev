@@ -4,9 +4,9 @@ function App() {
   
 
   return (
-    <>
-      hello
-    </>
+    <h1 className="text-sm font-bold underline text-red-900 ">
+    Hello world!
+  </h1>
   )
 }
 
